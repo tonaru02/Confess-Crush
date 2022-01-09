@@ -1,8 +1,9 @@
 const CONFIG = {
-    titleWeb: "iloveyou",
-    introTitle: 'Như',
-    introDesc: `Xin lỗi đã làm em thất vọng :<`,
-    btnIntro: '^^Hic^^',
+    titleWeb: "inlove",
+    introTitle: 'như',
+    introDesc: `Xin lỗi đã làm em thất vọng
+    tha lỗi cho anh nha:<`,
+    btnIntro: '^^hic^^',
     title: 'Anh biết anh sai rồi',
     desc: 'Cho anh cơ hội để sửa sai nha ',
     btnYes: 'Anh xin lỗi',
